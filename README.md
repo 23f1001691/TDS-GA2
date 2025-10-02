@@ -6,19 +6,19 @@ This repository contains solutions for 13 questions. Click on each question link
 
 ## Questions
 
-1. [01q - Markdown Architecture](01q-markdown-architecture)
-2. [02q - Image Compression Dynamic](02q-image-compression-dynamic)
-3. [03q - GitHub Pages](03q-github-pages)
-4. [04q - Colab Secrets Drive](04q-colab-secrets-drive)
-5. [05q - Vercel Latency](05q-vercel-latency)
-6. [06q - GitHub Action](06q-github-action)
-7. [07q - GitHub Action Cache](07q-github-action-cache)
-8. [08q - HuggingFace Docker](08q-huggingface-docker)
-9. [09q - Docker Hub Image](09q-docker-hub-image)
-10. [10q - GitHub Codespaces Devcontainer](10q-github-codespaces-devcontainer)
-11. [11q - FastAPI](11q-fastapi)
-12. [12q - Google OAuth FastAPI](12q-google-oauth-fastapi)
-13. [13q - Ollama](13q-ollama)
+[01q - Markdown Architecture](01q-markdown-architecture)
+[02q - Image Compression Dynamic](02q-image-compression-dynamic)
+[03q - GitHub Pages](03q-github-pages)
+[04q - Colab Secrets Drive](04q-colab-secrets-drive)
+[05q - Vercel Latency](05q-vercel-latency)
+[06q - GitHub Action](06q-github-action)
+[07q - GitHub Action Cache](07q-github-action-cache)
+[08q - HuggingFace Docker](08q-huggingface-docker)
+[09q - Docker Hub Image](09q-docker-hub-image)
+[10q - GitHub Codespaces Devcontainer](10q-github-codespaces-devcontainer)
+[11q - FastAPI](11q-fastapi)
+[12q - Google OAuth FastAPI](12q-google-oauth-fastapi)
+[13q - Ollama](13q-ollama)
 
 ---
 
